@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from Dev Environment </p>
+        <p>This is from Production  Environment </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -61,10 +61,10 @@
     <!-- Example row of columns -->
      <div class="row">
         <div class="col-md-4">
-            <h2>Devops</h2>
+            <h2>Devops </h2>
             <p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
+        </div> 
     </div>
     <div class="row">
         <div class="col-md-4">
